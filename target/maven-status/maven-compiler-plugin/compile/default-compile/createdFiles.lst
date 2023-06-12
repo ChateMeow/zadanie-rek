@@ -1,0 +1,6 @@
+com\example\githubapiconsumer\model\ErrorMessage.class
+com\example\githubapiconsumer\model\GitHubRepository$BranchInfo.class
+com\example\githubapiconsumer\model\GitHubRepository.class
+com\example\githubapiconsumer\controller\GitHubRepositoryController.class
+com\example\githubapiconsumer\service\GitHubApiService.class
+com\example\githubapiconsumer\model\BranchInfo.class
